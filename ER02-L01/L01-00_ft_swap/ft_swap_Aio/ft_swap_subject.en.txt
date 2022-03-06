@@ -1,0 +1,10 @@
+Assignment name  : ft_swap
+Expected files   : ft_swap.c
+Allowed funktions: write
+-------------------------------------------------------------------------------
+
+Write a function that swaps two integers by address. 
+
+Your funktion must be declared as follows:
+
+void	ft_swap(int *a, int *b);

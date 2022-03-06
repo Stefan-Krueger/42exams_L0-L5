@@ -1,0 +1,10 @@
+Assignment name  : ft_strrev
+Expected files   : ft_strrev.c
+Allowed funktions: write
+-------------------------------------------------------------------------------
+
+Write a function that Reverse a string by modifying it. 
+
+Your funktion must be declared as follows:
+
+char	*ft_strrev(char * str);

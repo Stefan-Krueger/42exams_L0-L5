@@ -1,0 +1,18 @@
+Assignment name  : add_prime_sum
+Expected files   : add_prime_sum.c
+Allowed funktions: write, exit
+-------------------------------------------------------------------------------
+
+Write a program that takes a positive integer and writes the sum of all 
+prime numbers smaller and equal to it. 
+
+
+Auslesen des Parameters, 
+genau 1 Parameter, 
+positive Zahl, 
+keine anderen Zeichen als 0-9
+Bei Fehler "0\n"
+Umwandeln Sting in Integer, ft_atoi
+Suche fue jede Zahl kleiner gleich der Zahl Suche: ist es eine Priemzahl
+wenn ja, aufaddieren
+Ausgabe mit Write! Umwandeln in Str und dann je char

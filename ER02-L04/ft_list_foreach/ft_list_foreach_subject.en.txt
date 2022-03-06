@@ -1,0 +1,8 @@
+Assignment name  : ft_list_foreach
+Expected files   : ft_list_foreach.c
+Allowed funktions: write
+-------------------------------------------------------------------------------
+
+same as ft_listiter, use funktion in every element of linked list (from Bonus)
+
+void	ft_list_foreach(t_list *begin_list, void (*f)(void *));

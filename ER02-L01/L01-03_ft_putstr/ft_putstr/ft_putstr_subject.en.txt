@@ -1,0 +1,13 @@
+Assignment name  : ft_putstr
+Expected files   : ft_putstr.c
+Allowed funktions: write
+-------------------------------------------------------------------------------
+
+Write a function that displays a string on the standard output. 
+
+The pointer passed to the funktion contains the address of the string's first
+character.
+
+Your funktion must be declared as follows:
+
+void	ft_putstr(char *str);
